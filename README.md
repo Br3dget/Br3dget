@@ -2,6 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=800&color=FF69B4&width=500&lines=Welcome+to+My+GitHub!;Front-end+Engineer;Love+Building+Cool+Projects" alt="Typing SVG" />
 </p>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Br3dget&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Br3dget&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
 
 <img align="right" height="150" src="https://camo.githubusercontent.com/3753b18a8c7b146e3e7b6d587ee6f72feb44ca788524c36a088659e180ef9c42/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632"  />
 
