@@ -1,6 +1,7 @@
-<h2 align="left">Hi 👋! My name is Bridget Njoki and I'm a Front-end Developer </h2>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=800&color=FF69B4&width=500&lines=Welcome+to+My+GitHub!;Front-end+Engineer;Love+Building+Cool+Projects" alt="Typing SVG" />
+</p>
 
-###
 
 <img align="right" height="150" src="https://camo.githubusercontent.com/3753b18a8c7b146e3e7b6d587ee6f72feb44ca788524c36a088659e180ef9c42/68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3034322f3633312f3238362f6f726967696e616c2f627279616e2d726f6472696775657a2d62656c6368696269612d312d726967687473706565642e6769663f31363335303337353632"  />
 
