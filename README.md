@@ -34,6 +34,13 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+<div align="center" >
+
+  
+<hr></hr>
+<h2 align="center">🌸 ~ 𝓕𝓤𝓝 𝓕𝓐𝓒𝓣 ~ 🌸  </h2>
+
+🧚‍♀️ 𝐼 𝒷𝑒𝓁𝒾𝑒𝓋𝑒 𝑒𝓋𝑒𝓇𝓎 𝑔𝑜𝑜𝒹 𝒸𝑜𝓂𝓂𝒾𝓉 𝓃𝑒𝑒𝒹𝓈 𝒶 𝓁𝒾𝓉𝓉𝓁𝑒 𝓂𝒶𝑔𝒾𝒸 ✨<br>
 
 ###
 ![snake gif](https://github.com/Br3dget/Br3dget/blob/output/github-snake-dark.svg)
