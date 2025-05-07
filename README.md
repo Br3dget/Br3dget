@@ -32,11 +32,3 @@
 
 ###
 <h1 align="center">🌐 Socials:</h1>
-
-
-    <img src="./pngs/email3d.png" height="50" alt="Email" style="margin: 10px;" />
-  </a>
-  <a href="https://www.instagram.com/boboyier/" target="_blank">
-    <img src="/pngs/3dInsta.png" height="50" alt="Instagram" style="margin: 10px;" />
-  </a>
-</p>
