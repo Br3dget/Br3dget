@@ -32,3 +32,7 @@
 
 ###
 <h1 align="center">🌐 Socials:</h1>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Br3dget&style=flat-square&color=blue" alt="" />
+</div>
