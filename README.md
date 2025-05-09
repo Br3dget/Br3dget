@@ -27,6 +27,19 @@
 ---
 
 <h1 align="center">🌐 Socials:</h1>
+<a href="mailto:njorogebridgetn@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/Br3dget/Br3dget/refs/heads/main/Gmail%20icon.webp" width="40" alt="Gmail" />
+</a>
+<a href="https://linkedin.com/in/bridget-njoki" target="_blank">
+  <img src="https://raw.githubusercontent.com/Br3dget/Br3dget/refs/heads/main/linkedin%20icon.webp" width="40" alt="LinkedIn"/>
+</a>
+<a href="https://Instagram.com/in/_njok.iiiii" target="_blank">
+  <img src="https://raw.githubusercontent.com/Br3dget/Br3dget/refs/heads/main/instagram%20icon.webp " width="40" alt="Instagram"/>
+</a>
+ <a href="https://twitter.com/eve_brii" target="_blank">
+    <img src="https://raw.githubusercontent.com/Br3dget/Br3dget/refs/heads/main/Twitter%20icon.webp" width="40" alt="Twitter" />
+  </a>
+
 
 ---
 <p align="center">
