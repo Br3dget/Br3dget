@@ -30,7 +30,7 @@
 <a href="mailto:njorogebridgetn@gmail.com" target="_blank">
   <img src="https://raw.githubusercontent.com/Br3dget/Br3dget/refs/heads/main/Gmail%20icon.webp" width="40" alt="Gmail" />
 </a>
-<a href="https://linkedin.com/in/bridget-njoki" target="_blank">
+<a href="https://linkedin.com/in/bridget-njoki-bn" target="_blank">
   <img src="https://raw.githubusercontent.com/Br3dget/Br3dget/refs/heads/main/linkedin%20icon.webp" width="40" alt="LinkedIn"/>
 </a>
 <a href="https://Instagram.com/in/_njok.iiiii" target="_blank">
