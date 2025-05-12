@@ -3,16 +3,8 @@
 </p>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Br3dget&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Br3dget&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
----
-
 # 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 <h2 align="center">🌸 ~ 𝓕𝓤𝓝 𝓕𝓐𝓒𝓣 ~ 🌸</h2>
@@ -20,6 +12,14 @@
 <p align="center">
 🧚‍♀️ 𝐼 𝒷𝑒𝓁𝒾𝑒𝓋𝑒 𝑒𝓋𝑒𝓇𝓎 𝑔𝑜𝑜𝒹 𝒸𝑜𝓂𝓂𝒾𝓉 𝓃𝑒𝑒𝒹𝓈 𝒶 𝓁𝒾𝓉𝓉𝓁𝑒 𝓂𝒶𝑔𝒾𝒸 ✨
 </p>
+
+---
+## 📊 GitHub Stats:
+<img align="" width="57.5%" src="https://github-readme-stats-fork-alpha.vercel.app/api?username=Br3dget&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&border_radius=0&title_color=ffffff&icon_color=ffd700&text_color=e6e6e6&bg_color=00000000" /><img align="" width="42.4%" src="https://github-readme-stats-fork-alpha.vercel.app/api/top-langs/?username=Br3dget&hide_title=true&hide_border=true&layout=compact&border_radius=0&title_color=ffffff&icon_color=ffd700&text_color=e6e6e6&bg_color=00000000" />
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Br3dget&theme=highcontrast&hide_border=false" />
+</div>
 
 ---
   
